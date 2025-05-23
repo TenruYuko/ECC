@@ -1,5 +1,5 @@
 # ECC, Ethical Code of Conduct
-# Recignition of human dignity and worth.
+# Recognition of human dignity and worth.
 1.) Always recognize that each and every single person has their worth as a human being, regardless of their actions, opinions, political stance or religious beliefs.
 
 1.a) Even if that worth is **low**.
@@ -24,4 +24,4 @@
 
 4.)  Do not judge a person merely by opinion, political stance, temporary mindset, or any identifying outside factors, such as race, age, or any others. People are complicated creatures, and the beliefs they may hold may be for an unknown reason, even if it doesn't seem like such. Upon that point, stands no shame to be any kind of race; simply put, no discrimination by labels. 
 
-5.)
+
